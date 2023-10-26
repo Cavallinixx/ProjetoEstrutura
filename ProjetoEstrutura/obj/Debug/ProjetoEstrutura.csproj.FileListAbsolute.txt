@@ -6,3 +6,10 @@ C:\Users\vitor.csouza14\source\repos\ProjetoEstrutura\ProjetoEstrutura\obj\Debug
 C:\Users\vitor.csouza14\source\repos\ProjetoEstrutura\ProjetoEstrutura\obj\Debug\ProjetoEstrutura.csproj.CoreCompileInputs.cache
 C:\Users\vitor.csouza14\source\repos\ProjetoEstrutura\ProjetoEstrutura\obj\Debug\ProjetoEstrutura.exe
 C:\Users\vitor.csouza14\source\repos\ProjetoEstrutura\ProjetoEstrutura\obj\Debug\ProjetoEstrutura.pdb
+C:\Users\vacav\Source\Repos\ProjetoEstrutura\ProjetoEstrutura\bin\Debug\ProjetoEstrutura.exe.config
+C:\Users\vacav\Source\Repos\ProjetoEstrutura\ProjetoEstrutura\bin\Debug\ProjetoEstrutura.exe
+C:\Users\vacav\Source\Repos\ProjetoEstrutura\ProjetoEstrutura\bin\Debug\ProjetoEstrutura.pdb
+C:\Users\vacav\Source\Repos\ProjetoEstrutura\ProjetoEstrutura\obj\Debug\ProjetoEstrutura.csproj.AssemblyReference.cache
+C:\Users\vacav\Source\Repos\ProjetoEstrutura\ProjetoEstrutura\obj\Debug\ProjetoEstrutura.csproj.CoreCompileInputs.cache
+C:\Users\vacav\Source\Repos\ProjetoEstrutura\ProjetoEstrutura\obj\Debug\ProjetoEstrutura.exe
+C:\Users\vacav\Source\Repos\ProjetoEstrutura\ProjetoEstrutura\obj\Debug\ProjetoEstrutura.pdb

@@ -28,7 +28,9 @@ namespace ProjetoEstruturaRepeticaoVetor
                               "0. Sair\n" +
                               "1. Média de notas 10 alunos\n" +
                               "2. Vetor Inverso\n"           +
-                              "3. Número Par \n");
+                              "3. Número Par \n"              +
+                              "4. Média de notas 20 alunos\n" +
+                              "5. Mostrar o maior valor\n" );
             ConsultarOpcao = Convert.ToInt32(Console.ReadLine());
         }//fim do menu
 
@@ -50,7 +52,15 @@ namespace ProjetoEstruturaRepeticaoVetor
                         this.modelo.MostrarVetor();
                         break;
                     case 3:
-                        Console.WriteLine(this.modelo.NumerosPares());
+                        this.modelo.PreencherNum();
+                        this.modelo.NumPar();
+                        break;
+                    case 4:
+                        Console.WriteLine(modelo.MediaAlunos());
+                        
+                        break;
+                    case 5:
+                        Console.WriteLine(modelo.MostrarPosicao());
                         break;
                     default:
                         Console.WriteLine("Erro, escolha uma opção valida!");
